@@ -57,6 +57,6 @@
 
 - **Telegram:** [@cfogoogle](https://t.me/cfogoogle)
 - **GitHub:** [sh1baaaaa](https://github.com/sh1baaaaa)
-- **Канал для фидбэка:** [@shibafeedbacks](https://t.me/shibafeedbacks)
+- **Feedback:** [@shibafeedbacks](https://t.me/shibafeedbacks)
 
 </div>
