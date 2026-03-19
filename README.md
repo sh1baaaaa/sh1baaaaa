@@ -19,7 +19,7 @@
 
 | **Категория**         | **Технологии** |
 |----------------------|----------------|
-| **Язык**             | Java (Multithreading, Stream API...) |
+| **Язык**             | Java SE / EE |
 | **Фреймворки**       | Spring Boot, Spring Data JPA / JDBC, Spring Security, Spring Cloud, Spring AOP |
 | **Базы данных**      | PostgreSQL, MySQL, MSSQL, Redis |
 | **Принципы**         | ООП, SOLID, DRY, KISS, Design Patterns |
