@@ -21,7 +21,7 @@
 ```yaml
 name: shiba
 role: Java Backend Developer
-experience: 2+ years (commercial)
+experience: 2.5 years (commercial)
 focus: High-performance & low-latency backend services
 languages: [Russian, English]
 ```
