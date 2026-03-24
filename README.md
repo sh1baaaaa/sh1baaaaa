@@ -19,7 +19,7 @@
 ### `> whoami`
 
 ```yaml
-name: shiba
+name: Daniil Iagodkin
 role: Java Backend Developer
 experience: 2.5 years (commercial)
 focus: High-performance & low-latency backend services
