@@ -22,7 +22,7 @@
 name: Daniil Iagodkin
 role: Java Backend Developer
 experience: 2.5 years (commercial)
-focus: Microservices & High-performance & Low-latency backend services
+focus: Web-apps & Microservices & Low-latency backend services
 languages: [Russian, English]
 ```
 
