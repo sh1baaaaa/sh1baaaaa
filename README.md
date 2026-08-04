@@ -105,21 +105,6 @@ languages: [Russian, English]
 
 ---
 
-### 🚀 Projects
-
-<div align="center">
-
-| | Проект | Описание | Стек |
-|:---:|:-------|:---------|:-----|
-| 🔗 | [**users-microservices-manager**](https://github.com/sh1baaaaa/users-microservices-manager) | Микросервисная архитектура для регистрации и управления пользователями | `Java` `Spring Boot` |
-| 🔍 | [**searching-engine**](https://github.com/sh1baaaaa/searching-engine) | Поисковый движок: индексация и поиск страниц | `JavaScript` |
-| 📊 | [**InstagramStoriesAnalysis**](https://github.com/sh1baaaaa/InstagramStoriesAnalysis) | Анализ Instagram Stories с кэшированием | `Java` `Redis` |
-| ✅ | [**Task-Management-System**](https://github.com/sh1baaaaa/Task-Management-System) | Система управления задачами | `Java` `Spring Boot` |
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
