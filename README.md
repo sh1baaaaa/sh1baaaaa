@@ -64,7 +64,7 @@ spoken:      [Russian, English]
 <tr>
 <td align="center"><b>Tools</b></td>
 <td valign="middle">
-<img src="https://skillicons.dev/icons?i=docker,git,gradle,maven,grafana,prometheus&theme=dark" alt="Docker, Git, Gradle, Maven, Grafana, Prometheus" />
+<img src="https://skillicons.dev/icons?i=docker,git,gradle,maven,kafka,grafana,prometheus&theme=dark" alt="Docker, Git, Gradle, Maven, Kafka, Grafana, Prometheus" />
 &nbsp;
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
 <img src="https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=white" alt="Liquibase" />
