@@ -56,7 +56,7 @@ spoken:      [Russian, English]
 <tr>
 <td align="center"><b>Databases</b></td>
 <td valign="middle">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL, Redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch&theme=dark" alt="PostgreSQL, MySQL, Redis, Elasticsearch" />
 &nbsp;
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
 </td>
