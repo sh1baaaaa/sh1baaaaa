@@ -109,27 +109,6 @@ Spring Security, OAuth 2.0, работа с SQL и NoSQL базами, кэши�
 </tr>
 </table>
 
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sh1baaaaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1baaaaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=6" alt="Top languages" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sh1baaaaa&hide_border=true&background=0D1117&stroke=21262D&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1baaaaa&bg_color=0D1117&color=C9D1D9&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true" alt="Activity graph" />
-
-</div>
-
-<br>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1500&color=6C6C8A&center=true&vCenter=true&width=460&lines=%E2%98%95+Powered+by+coffee+and+Spring+Framework" alt="Footer" />
