@@ -19,7 +19,7 @@
 
 ```yaml
 name:        Daniil Iagodkin
-role:        Java Backend Developer | AI Engineer
+role:        Java Backend Developer | AI Engineer | Intermediate MLops Engineer
 experience:  2.5 years (commercial)
 focus:       Web-apps, Microservices, Low-latency backend services, AI automatization (agents, multiagency systems, etc.)
 languages:   [Java, Python]
@@ -42,7 +42,7 @@ spoken:      [Russian, English]
 <tr>
 <td align="center"><b>Frameworks</b></td>
 <td valign="middle">
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" height="48" />
+<img src="https://skillicons.dev/icons?i=spring,tensorflow,pytorch&theme=dark" alt="Spring" height="48" />
 &nbsp;
 <img src="https://img.shields.io/badge/Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
