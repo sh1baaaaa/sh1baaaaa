@@ -18,7 +18,7 @@
 ## `> whoami`
 
 ```yaml
-name:        Daniil Iagodkin
+name:        Daniil Yagodkin
 role:        Software Engineer | ML Engineer
 experience:  2.5 years (commercial)
 focus:       Web-apps, Microservices, Low-latency backend services, AI automatization, ML/DL
