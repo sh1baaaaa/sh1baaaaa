@@ -22,8 +22,8 @@ name:        Daniil Iagodkin
 role:        Software Engineer | ML Engineer
 experience:  2.5 years (commercial)
 focus:       Web-apps, Microservices, Low-latency backend services, AI automatization, ML/DL
-languages:   [Java, Python]
-spoken:      [Russian, English]
+languages:   Java, Python
+spoken:      Russian, English
 ```
 
 <br>
