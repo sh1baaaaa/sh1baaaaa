@@ -19,10 +19,10 @@
 
 ```yaml
 name:        Daniil Iagodkin
-role:        Java Backend Developer
+role:        Java Backend Developer | AI Engineer
 experience:  2.5 years (commercial)
-focus:       Web-apps, Microservices, Low-latency backend services
-languages:   [Java, Python, JavaScript]
+focus:       Web-apps, Microservices, Low-latency backend services, AI automatization (agents, multiagency systems, etc.)
+languages:   [Java, Python]
 spoken:      [Russian, English]
 ```
 
@@ -36,7 +36,7 @@ spoken:      [Russian, English]
 <tr>
 <td align="center" width="140"><b>Core</b></td>
 <td valign="middle">
-<img src="https://skillicons.dev/icons?i=java,python,js,react&theme=dark" alt="Java, Python, JavaScript, React" />
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java, Python" />
 </td>
 </tr>
 <tr>
