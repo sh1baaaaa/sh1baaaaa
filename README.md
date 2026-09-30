@@ -19,9 +19,9 @@
 
 ```yaml
 name:        Daniil Iagodkin
-role:        Java Backend Developer | AI Engineer | Intermediate MLops Engineer
+role:        Software Engineer | ML Engineer
 experience:  2.5 years (commercial)
-focus:       Web-apps, Microservices, Low-latency backend services, AI automatization (agents, multiagency systems, etc.)
+focus:       Web-apps, Microservices, Low-latency backend services, AI automatization, ML/DL
 languages:   [Java, Python]
 spoken:      [Russian, English]
 ```
