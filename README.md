@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1B1B3A&height=200&section=header&text=Daniil%20Yagodkin&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Software%20Engineer%20|%20Data%20Science%20Engineer%20|%20ML%20Engineer&descSize=18&descAlignY=54" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=720&lines=Building+fast+%26+reliable+backends;Middle+Software+Engineer+%26+Data+Science+Engineer;ML+%26+MLOps+%26+Production+AI;3%2B+years+in+commercial+development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=720&lines=Building+fast+%26+reliable+backends;Middle+Software+Engineer+%26+Data+Science+Engineer;ML+%26+MLOps+%26+Production+AI;3+years+in+commercial+development" alt="Typing SVG" />
 
 <br><br>
 
