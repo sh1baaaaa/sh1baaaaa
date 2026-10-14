@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1B1B3A&height=200&section=header&text=Daniil%20Yagodkin&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Middle%20Software%20Engineer%20%26%20Data%20Science%20Engineer%20|%20ML%20%26%20MLOps%20%26%20Production%20AI&descSize=16&descAlignY=54" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1B1B3A&height=200&section=header&text=Daniil%20Yagodkin&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Software%20Engineer%20|%20Data%20Science%20Engineer%20|%20ML%20Engineer&descSize=18&descAlignY=54" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+fast+%26+reliable+backends;Java+%7C+Spring+%7C+Microservices;ML+%7C+Deep+Learning+%7C+Data+Science;3%2B+years+in+commercial+development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=720&lines=Building+fast+%26+reliable+backends;Middle+Software+Engineer+%26+Data+Science+Engineer;ML+%26+MLOps+%26+Production+AI;3%2B+years+in+commercial+development" alt="Typing SVG" />
 
 <br><br>
 
@@ -19,8 +19,8 @@
 
 ```yaml
 name:        Daniil Yagodkin
-role:        "Middle Software Engineer & Data Science Engineer | ML & MLOps & Production AI"
-experience:  3 years (commercial)
+role:        Middle Software Engineer & Data Science Engineer | ML & MLOps & Production AI
+experience:  3 years
 focus:       Backend & microservices, Machine Learning, Deep Learning, Data Science, Data Analytics
 languages:   Java, Python, SQL
 spoken:      Russian, English
