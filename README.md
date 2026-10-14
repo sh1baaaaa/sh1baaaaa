@@ -42,22 +42,12 @@ Software engineer with 3 years of commercial backend experience in Java and Spri
 <td align="center" width="160"><b>Languages</b></td>
 <td valign="middle">
 <img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java, Python" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
 <td valign="middle">
-<img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Spring, Hibernate" height="48" />
-&nbsp;
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
-<img src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data" />
-<img src="https://img.shields.io/badge/Spring%20AOP-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AOP" />
-<img src="https://img.shields.io/badge/Vaadin-00B4F0?style=flat-square&logo=vaadin&logoColor=white" alt="Vaadin" />
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,fastapi,django&theme=dark" alt="Spring, Hibernate" height="48" />
 </td>
 </tr>
 <tr>
@@ -65,34 +55,26 @@ Software engineer with 3 years of commercial backend experience in Java and Spri
 <td valign="middle">
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" />
 &nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=dark" alt="PyTorch, scikit-learn" />
 <img src="https://img.shields.io/badge/Neural%20Networks-6C63FF?style=flat-square" alt="Neural Networks" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Data Science & Analytics</b></td>
 <td valign="middle">
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="NumPy, Pandas" />
-&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,jupyter" alt="NumPy, Pandas, Matplotlib, Jupyter" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Data Engineering & MLOps</b></td>
 <td valign="middle">
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" />
-<img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" />
-<img src="https://skillicons.dev/icons?i=kafka,docker,prometheus,grafana&theme=dark" alt="Kafka, Docker, Prometheus, Grafana" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=airflow,hadoop,hive,kafka,docker,prometheus,grafana" alt="Airflow, Hadoop, Hive, Kafka, Docker, Prometheus, Grafana" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Databases</b></td>
 <td valign="middle">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch&theme=dark" alt="PostgreSQL, MySQL, Redis, Elasticsearch" />
-&nbsp;
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlserver,redis,elasticsearch" alt="PostgreSQL, MySQL, SQL Server, Redis, Elasticsearch" />
 </td>
 </tr>
 <tr>
