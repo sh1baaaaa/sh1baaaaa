@@ -9,7 +9,6 @@
 <a href="https://t.me/cfogoogle"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://t.me/shibafeedbacks"><img src="https://img.shields.io/badge/Feedback-FF6B6B?style=flat-square&logo=telegram&logoColor=white" alt="Feedback" /></a>
 <a href="https://github.com/sh1baaaaa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=sh1baaaaa&style=flat-square&color=6C63FF&label=views" alt="Profile views" />
 
 </div>
 
